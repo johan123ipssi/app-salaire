@@ -3,7 +3,7 @@
 
 
   vars_files:
-    - vars/vars.yaml    
+    - vars/main.yaml    
     
   become: yes
 
